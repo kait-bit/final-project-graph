@@ -1,2 +1,3 @@
 # final-project-graph
-ACC final project
+ACC Final project
+Building an unweighted and undirected graph class. Testing provided in main.
