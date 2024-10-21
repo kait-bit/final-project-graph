@@ -1,3 +1,3 @@
 # final-project-graph
-My ACC Final project copied over from private repo.
+My data structures class final project. Copied over from private repo.
 <p>Building an unweighted and undirected graph class. Testing provided in main.
